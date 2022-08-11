@@ -1,7 +1,5 @@
 ## Portfolio
 
----
-
 # [Project 1: version1](https://github.com/DarlinSoto/Modulation-models)
 * created
 * scraped
