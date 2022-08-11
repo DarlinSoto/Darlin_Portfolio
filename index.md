@@ -1,13 +1,13 @@
-## Portfolio
+# Portfolio
 
-# [Project 1: version1](https://github.com/DarlinSoto/Modulation-models)
+## [Project 1: version1](https://github.com/DarlinSoto/Modulation-models)
 * created
 * scraped
 * engineered
 
 ![](images/FM_edited.png)
 
-# Project 2:
+## Project 2:
 dsdsdsadsd
 
 ---
