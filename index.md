@@ -5,7 +5,7 @@ This repository includes codes in R software to reproduce the figures in the pap
 
 ![](images/v783_fit.png)
 
-## [Pronosticando el número de manchas solares](https://github.com/DarlinSoto/Modulation-models)
+## [Pronosticando el número de manchas solares](https://github.com/DarlinSoto/Sunspots)
 Este repositorio incluye el ajuste de un modelo ARMA para pronosticar el núméro de manchas solares. 
 
 ---
